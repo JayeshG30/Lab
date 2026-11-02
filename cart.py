@@ -7,3 +7,4 @@ def cart_total():
 
     return total
 
+print ('total : ', cart_total())
